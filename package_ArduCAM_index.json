@@ -1,7 +1,7 @@
 {
 	"packages":[
 	{
-		"name":"esp8266",
+		"name":"ArduCAM_ESP8266_UNO",
 		"maintainer":"ArduCAM",
 		"websiteURL":"http://ARDUCAM.com",
 		"email":"admin@arducam.com",
@@ -293,7 +293,7 @@
           ]
         }
        
-    ],"name":"esp8266" 
+    ]
     }
   ]
 }
