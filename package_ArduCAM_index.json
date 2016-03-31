@@ -1,7 +1,7 @@
 {
 	"packages":[
 	{
-		"name":"ArduCAM_ESP8266_UNO",
+		"name":"esp8266",
 		"maintainer":"ArduCAM",
 		"websiteURL":"http://ARDUCAM.com",
 		"email":"admin@arducam.com",
@@ -17,7 +17,7 @@
 					"version":"2.1.0",
 					"architecture":"ArduCAM_ESP8266_UNO",
 					"archiveFileName":"ArduCAM_ESP8266_UNO.zip",
-					"size":"5347737",
+					
 					
 					"boards":
 						[
@@ -39,13 +39,12 @@
               "version": "0.1.2", 
               "name": "mkspiffs"
             }
-          ]
-         
+          ],
+         "size":"5347737"
         }
        
        ],
        
-      
       "tools": [
         {
           "version": "1.20.0-26-gb404fb9-2", 
@@ -294,7 +293,7 @@
           ]
         }
        
-    ]
+    ],"name":"esp8266" 
     }
   ]
 }
