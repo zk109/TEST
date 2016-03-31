@@ -22,11 +22,10 @@
 						[
 							{"name": "ArduCAM ESP8266 UNO"}
 						],
-					"toolsDependencies":
-						[
+					 "toolsDependencies": [
             {
               "packager": "esp8266", 
-              "version": "0.4.6", 
+              "version": "0.4.8", 
               "name": "esptool"
             }, 
             {
@@ -39,8 +38,14 @@
               "version": "0.1.2", 
               "name": "mkspiffs"
             }
-          ]，
-		   "tools": [
+          ]
+         
+        }
+       
+       ],
+       
+      
+      "tools": [
         {
           "version": "1.20.0-26-gb404fb9-2", 
           "name": "xtensa-lx106-elf-gcc", 
@@ -287,13 +292,8 @@
             }
           ]
         }
-      ]
-		  
-		  
-		  
-		  
-				
-				}
-			]
-	}
+      ] 
+    
+    }
+  
 }
