@@ -1,5 +1,5 @@
 {
-	"packages":
+	"packages":[
 	{
 		"name":"ArduCAM_ESP8266_UNO",
 		"maintainer":"ArduCAM",
@@ -9,20 +9,21 @@
 		"platforms": 
 			[
 				{
-					"name":"ArduCAM_ESP8366_UNO",
-					"architecture":"ArduCAM_ESP8266_UNO",
-					"version":"2.1.0",
-					"category":"ESP8266",
+				    "category":"ESP8266",
+					"name":"esp8266",
 					"url":"https://raw.githubusercontent.com/zk109/ArduCAM_ESP8266_UNO/master/releases/download/2.1.0/ArduCAM_ESP8266_UNO.zip",
-					"archiveFileName":"ArduCAM_ESP8266_UNO.zip",
 					"checksum":"SHA-256:51AB2AA44AF343A717BF9AAEC0396967BCA99CB5411E0799857E82323AF65593",
-					"size":"5347737",
 					"help":{ "online":"https://github.com/zk109/" },
+					"version":"2.1.0",
+					"architecture":"ArduCAM_ESP8266_UNO",
+					"archiveFileName":"ArduCAM_ESP8266_UNO.zip",
+					"size":"5347737",
+					
 					"boards":
 						[
 							{"name": "ArduCAM ESP8266 UNO"}
 						],
-					 "toolsDependencies": [
+		 "toolsDependencies": [
             {
               "packager": "esp8266", 
               "version": "0.4.8", 
@@ -295,5 +296,5 @@
        
     ]
     }
-  
+  ]
 }
