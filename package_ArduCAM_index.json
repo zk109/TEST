@@ -30,10 +30,11 @@
               "packager": "ArduCAM_ESP32S_UNO",
               "name": "esptool",
               "version": "fe69994"
-            }
-          ]
-        }
-      ],
+              }
+          ],
+         "size":"25792512"
+        } 
+       ],
       "tools": [
         {
           "name": "xtensa-esp32-elf-gcc",
