@@ -6,36 +6,41 @@
 		"websiteURL":"http://arducam.com",
 		"email":"admin@arducam.com",
 		"help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP32S_UNO" },
-		"platforms": [
+		"platforms": 
+		      [
 				{
 				    "category":"ESP32",
 					"name":"ArduCAM_ESP32S_UNO",
 					"url":"https://raw.githubusercontent.com/zk109/ArduCAM_ESP32S_UNO/master/releases/download/0.0.1/ArduCAM_ESP32S_UNO.zip",
-					"checksum":"SHA-256:AADA71AFF505F77380332D5307BFBC0F8114FBEC7A62FE5A04553B791937C006",
+					"checksum":"SHA-256:03FC202561B5E8F642FF359BE2944488856F535929C71D0440A07C72446DF920",
 					"help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP32S_UNO" },
 					"version":"0.0.1",
 					"architecture":"ArduCAM_ESP32S_UNO",
 					"archiveFileName":"ArduCAM_ESP32S_UNO.zip",
+					"size":"25792512",
 					"boards":
 						[
 							{"name": "ArduCAM ESP32S UNO"}
 						],
-		 "toolsDependencies": [
-            {
-              "packager": "ArduCAM_ESP32S_UNO",
-              "name": "xtensa-esp32-elf-gcc",
-              "version": "1.22.0-61-gab8375a-5.2.0"
-            },
-            {
-              "packager": "ArduCAM_ESP32S_UNO",
-              "name": "esptool",
-              "version": "fe69994"
-              }
-          ],
-         "size":"13451264"
-        } 
-       ],
-      "tools": [
+		            "toolsDependencies": 
+					    [
+                          {
+                              "packager": "ArduCAM_ESP32S_UNO",
+                              "name": "xtensa-esp32-elf-gcc",
+                              "version": "1.22.0-61-gab8375a-5.2.0"
+                          },
+                          {
+                              "packager": "ArduCAM_ESP32S_UNO",
+                              "name": "esptool",
+                              "version": "fe69994"
+                          }
+                        ]
+        
+                } 
+              ],
+     
+	 "tools": 
+	 [
         {
           "name": "xtensa-esp32-elf-gcc",
           "version": "1.22.0-61-gab8375a-5.2.0",
