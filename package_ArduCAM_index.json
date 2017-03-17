@@ -12,7 +12,7 @@
 				    "category":"ESP32",
 					"name":"ArduCAM_ESP32S_UNO",
 					"url":"https://raw.githubusercontent.com/zk109/ArduCAM_ESP32S_UNO/master/releases/download/0.0.1/ArduCAM_ESP32S_UNO.zip",
-					"checksum":"SHA-256:ED847131ED8E84E7E1DC983FB6F3F73E9019E9BDD1396932AA3560A3F614B969",
+					"checksum":"SHA-256:A6BA1468121A06430A2FF8DD11DC6F3EADDA0DACD26A7BC31AABBF53706ABFA5",
 					"help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP32S_UNO" },
 					"version":"0.0.1",
 					"architecture":"ArduCAM_ESP32S_UNO",
@@ -25,12 +25,12 @@
 		            "toolsDependencies": 
 					    [
                           {
-                              "packager": "ArduCAM_ESP32S_UNO",
+                              "packager": "esp32",
                               "name": "xtensa-esp32-elf-gcc",
                               "version": "1.22.0-61-gab8375a-5.2.0"
                           },
                           {
-                              "packager": "ArduCAM_ESP32S_UNO",
+                              "packager": "esp32",
                               "name": "esptool",
                               "version": "fe69994"
                           }
