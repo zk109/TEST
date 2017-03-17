@@ -1,7 +1,7 @@
 {
 	"packages":[
 	{
-		"name":"ArduCAM_ESP32S_UNO",
+		"name":"esp32",
 		"maintainer":"ArduCAM",
 		"websiteURL":"http://arducam.com",
 		"email":"admin@arducam.com",
