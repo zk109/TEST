@@ -12,7 +12,7 @@
 				    "category":"ESP32",
 					"name":"ArduCAM_ESP32S_UNO",
 					"url":"https://raw.githubusercontent.com/zk109/ArduCAM_ESP32S_UNO/master/releases/download/0.0.1/ArduCAM_ESP32S_UNO.zip",
-					"checksum":"SHA-256:F83D3B50CA45C5FDC1A8DBED6307ED7C369979F049035516F77EDEA967958D82",
+					"checksum":"SHA-256:EF4ABB0675A5EE9A300DC13DF653270EE62C206D94E33C2282DD60D5D7201E31",
 					"help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP32S_UNO" },
 					"version":"0.0.1",
 					"architecture":"ArduCAM_ESP32S_UNO",
