@@ -10,7 +10,6 @@
       },
       "platforms": [
 	 
-	  
         {
           "name": "ArduCAM_CC3200_UNO",
           "architecture": "ArduCAM_CC3200_UNO",
@@ -29,7 +28,6 @@
           ],
           "toolsDependencies": [
             {
-
               "packager":"ArduCAM_CC3200_UNO",
               "name":"arm-none-eabi-gcc",
               "version":"4.8.4-20140725"
@@ -48,7 +46,6 @@
         }
       ],
       "tools": [
-	  
         {
           "name":"msp430-gcc",
           "version":"4.6.3",
