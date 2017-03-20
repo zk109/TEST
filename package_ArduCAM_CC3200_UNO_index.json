@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ArduCAM boards",
+      "name": "ArduCAM_CC3200_board",
       "maintainer": "ArduCAM",
       "websiteURL": "http://www.arducam.com",
       "email": "admin@arducam.com",
@@ -9,41 +9,7 @@
         "online": "http://www.arducam.com"
       },
       "platforms": [
-	  
-	  {
-	      "category":"ESP8266",
-		  "name":"ArduCAM_ESP8266_UNO",
-		 "url":"https://raw.githubusercontent.com/ArduCAM/ArduCAM_ESP8266_UNO/master/releases/download/2.2.2/ArduCAM_ESP8266_UNO.zip",
-		 "checksum":"SHA-256:7FB9C795D50EBE94EF8FBFFD4B72A1D1119C0B03F00668037E42CAB209AB1C5F",
-		 "help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP8266_UNO" },
-		 "version":"2.2.2",
-		 "architecture":"ArduCAM_ESP8266_UNO",
-		 "archiveFileName":"ArduCAM_ESP8266_UNO.zip",
-		 "size":"9572352"，
-		 "boards":
-				[
-			    	{"name": "ArduCAM ESP8266 UNO"}
-				],
-		 "toolsDependencies": 
-		 [
-            {
-              "packager": "ArduCAM_ESP8266_UNO", 
-              "version": "0.4.8", 
-              "name": "esptool"
-            }, 
-            {
-              "packager": "ArduCAM_ESP8266_UNO", 
-              "version": "1.20.0-26-gb404fb9-2", 
-              "name": "xtensa-lx106-elf-gcc"
-            }, 
-            {
-              "packager": "ArduCAM_ESP8266_UNO", 
-              "version": "0.1.2", 
-              "name": "mkspiffs"
-            }
-          ]
-        
-        }，
+	 
 	  
         {
           "name": "ArduCAM_CC3200_UNO",
