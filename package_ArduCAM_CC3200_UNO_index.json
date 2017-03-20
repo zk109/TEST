@@ -12,13 +12,13 @@
         
         {
           "name": "ArduCAM_CC3200_UNO",
-          "architecture": "cc3200",
+          "architecture": "ArduCAM_CC3200_UNO",
           "version": "1.0.2",
-          "category": "ArduCAM_CC3200_UNO",
+          "category": "Energia",
           "url": "https://raw.githubusercontent.com/zk109/ArduCAM_CC3200_UNO/master/releases/download/1.0.2/ArduCAM_CC3200_UNO.zip",
           "archiveFileName": "ArduCAM_CC3200_UNO",
-          "checksum": "SHA-256:4D7924CD8AC3ED4D2C7115E371C6F7DD0691FBE0E06BE707D43E5E2A00A771D8",
-          "size": "2457600",
+          "checksum": "SHA-256:194ADE2A2F8DFB31C7860F660533F7A1E387410110A9964EBB6D9519F744A7F9",
+          "size": "2473984",
           "boards": [
             {"name": "ArduCAM_CC3200_UNO"},
 			{"name": "CC3200-LAUNCHXL"},
@@ -29,17 +29,17 @@
           "toolsDependencies": [
             {
 
-              "packager":"energia",
+              "packager":"ArduCAM_CC3200_UNO",
               "name":"arm-none-eabi-gcc",
               "version":"4.8.4-20140725"
             },
             {
-              "packager":"energia",
+              "packager":"ArduCAM_CC3200_UNO",
               "name":"dslite",
               "version":"6.2.1.1594"
             },
             {
-              "packager":"energia",
+              "packager":"ArduCAM_CC3200_UNO",
               "name":"cc3200prog",
               "version":"1.1.4"
             }
