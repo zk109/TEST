@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ArduCAM_CC3200_board",
+      "name": "ArduCAM_CC3200_UNO",
       "maintainer": "ArduCAM",
       "websiteURL": "http://www.arducam.com",
       "email": "admin@arducam.com",
@@ -9,7 +9,7 @@
         "online": "http://www.arducam.com"
       },
       "platforms": [
-	 
+        
         {
           "name": "ArduCAM_CC3200_UNO",
           "architecture": "ArduCAM_CC3200_UNO",
@@ -28,6 +28,7 @@
           ],
           "toolsDependencies": [
             {
+
               "packager":"ArduCAM_CC3200_UNO",
               "name":"arm-none-eabi-gcc",
               "version":"4.8.4-20140725"
