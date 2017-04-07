@@ -17,7 +17,7 @@
 					"version":"0.0.1",
 					"architecture":"ArduCAM_ESP32S_UNO",
 					"archiveFileName":"ArduCAM_ESP32S_UNO.zip",
-					"size":"25792512",
+					"size":"24510464",
 					"boards":
 						[
 							{"name": "ArduCAM ESP32S UNO"}
