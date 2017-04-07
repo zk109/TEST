@@ -6,8 +6,8 @@
       "websiteURL": "http://www.arducam.com",
       "email": "admin@arducam.com",
       "help": {
-        "online": "http://www.arducam.com"
-      },
+               "online": "http://www.arducam.com"
+              },
       "platforms": [
         
         {
@@ -15,13 +15,13 @@
           "architecture": "ArduCAM_CC3200_UNO",
           "version": "1.0.2",
           "category": "Energia",
-          "url": "https://raw.githubusercontent.com/zk109/ArduCAM_CC3200_UNO/master/releases/download/1.0.2/ArduCAM_CC3200_UNO.zip",
+          "url": "http://www.arducam.com/downloads/CC3200_UNO/releases/1.0.2/ArduCAM_CC3200_UNO.zip",
           "archiveFileName": "ArduCAM_CC3200_UNO.zip",
-          "checksum": "SHA-256:EC0D5BFFCC0CBC6632A83A2E0EE5CC5A64B2E5939FAC3C8AFCD45024BF603806",
+          "checksum": "SHA-256:DCC6751D711AD60506A08A5C20E429C7C9D8B69DDEB0C57F70078F6237E5852D",
           "size": "2473984",
           "boards": [
             {"name": "ArduCAM_CC3200_UNO"},
-			{"name": "CC3200-LAUNCHXL"},
+            {"name": "CC3200-LAUNCHXL"},
             {"name": "RedBearLab CC3200"},
             {"name": "RedBearLab WiFi Mini"},
             {"name": "RedBearLab WiFi Micro"}
