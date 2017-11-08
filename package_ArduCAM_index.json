@@ -11,7 +11,7 @@
 				    "category":"ESP8266",
 					"name":"ArduCAM_ESP8266_UNO",				
 					"url":"https://raw.githubusercontent.com/zk109/ArduCAM_ESP8266_UNO/master/releases/download/2.2.2/ArduCAM_ESP8266_UNO.zip",
-					"checksum":"A1853CF5BD743EDEA2864D2DFCB97D6A19663CFF16A7E0C18A03540CC96951D9",
+					"checksum":"SHA-256:A1853CF5BD743EDEA2864D2DFCB97D6A19663CFF16A7E0C18A03540CC96951D9",
 					"help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP8266_UNO" },
 					"version":"2.2.2",
 					"architecture":"ArduCAM_ESP8266_UNO",
