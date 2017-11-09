@@ -11,7 +11,7 @@
 				    "category":"ESP8266",
 					"name":"ArduCAM_ESP8266_UNO",				
 					"url":"https://raw.githubusercontent.com/zk109/ArduCAM_ESP8266_UNO/master/releases/download/2.2.2/ArduCAM_ESP8266_UNO.zip",
-					"checksum":"SHA-256:DC145995994CBF056BE73438F2932828B9397897C32E3BCE02653EB8DD4F4BDC",
+					"checksum":"SHA-256:31CB0D35A281184360BB70D3C41CFEF69EB857E4238CBF93A507F0D968136871",
 					"help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP8266_UNO" },
 					"version":"2.2.2",
 					"architecture":"ArduCAM_ESP8266_UNO",
@@ -37,7 +37,7 @@
               "name": "mkspiffs"
             }
           ],
-         "size":"9386494"
+ "size":"9600000"
         } 
        ],
        
